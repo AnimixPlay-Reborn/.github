@@ -21,7 +21,7 @@ Join us on this exciting journey as we bring AnimixPlay back to life. Your suppo
 
 # The Road 
 
-## Backend (Laravel)
+## Backend (Laravel) 
   - ### scraping system
     - #### livechart.me
       - [ ] top 10 anime
