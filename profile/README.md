@@ -27,15 +27,19 @@ Join us on this exciting journey as we bring AnimixPlay back to life. Your suppo
       - [ ] top 10 anime
       - [ ] schedule
       - [ ] search by id
-      - [ ] save anime Finished Airing to Mysql 
+      - [ ] bypass rate limit
 
     - #### anitaku.to
       - [ ] recent release
-      - [ ] search
+      - [ ] get anime data like score, type and ep count from MAL for recent releases
+      - [ ] search by name
       - [ ] get ep list of anime
-         
+
+    - #### myanimelist.net
+      - [ ] save completed(airing) anime info to DB
+
   - ### performance
-    - [ ] downlaod anime images as webp
-    - [ ] use cache system
+    - [ ] downlaod anime thumbnail as webp ([Intervention Image](https://image.intervention.io/))
+    - [ ] use cache system (redis)
     - [ ] rate limit (maybe)
 
