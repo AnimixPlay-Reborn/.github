@@ -16,3 +16,26 @@ Please note that AnimixPlay Reborn is not the official resurrection of AnimixPla
 Join us on this exciting journey as we bring AnimixPlay back to life. Your support is crucial to the success of this project, and we look forward to building a thriving anime community together.
 
 *Note: This project is not officially affiliated with AnimixPlay, and it is driven by a passion for anime and the desire to keep the spirit of AnimixPlay alive.*
+
+<hr/>
+
+# The Road 
+
+## Backend (Laravel)
+  - ### scraping system
+    - #### livechart.me
+      - [ ] top 10 anime
+      - [ ] schedule
+      - [ ] search by id
+      - [ ] save anime Finished Airing to Mysql 
+
+    - #### anitaku.to
+      - [ ] recent release
+      - [ ] search
+      - [ ] get ep list of anime
+         
+  - ### performance
+    - [ ] downlaod anime images as webp
+    - [ ] use cache system
+    - [ ] rate limit (maybe)
+
