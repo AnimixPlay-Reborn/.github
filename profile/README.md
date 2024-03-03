@@ -24,8 +24,8 @@ Join us on this exciting journey as we bring AnimixPlay back to life. Your suppo
 ## Backend (Laravel) 
   - ### scraping system
     - #### livechart.me
-      - [ ] top 10 anime
-      - [ ] schedule
+      - [x] top 10 anime
+      - [x] schedule
       - [ ] search by id
       - [ ] bypass rate limit
 
@@ -39,7 +39,7 @@ Join us on this exciting journey as we bring AnimixPlay back to life. Your suppo
       - [ ] save completed(airing) anime info to DB
 
   - ### performance
-    - [ ] downlaod anime thumbnail as webp ([Intervention Image](https://image.intervention.io/))
+    - [x] downlaod anime thumbnail as webp ([Intervention Image](https://image.intervention.io/))
     - [ ] use cache system (redis)
     - [ ] rate limit (maybe)
 
