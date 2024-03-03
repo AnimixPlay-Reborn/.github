@@ -30,10 +30,11 @@ Join us on this exciting journey as we bring AnimixPlay back to life. Your suppo
       - [ ] bypass rate limit
 
     - #### anitaku.to
-      - [ ] recent release
-      - [ ] get anime data like score, type and ep count from MAL for recent releases
+      - [x] recent release
+      - [x] get anime data like score, type and ep count from MAL for recent releases
       - [ ] search by name
       - [ ] get ep list of anime
+      - [ ] proxy anime iframe (online player)
 
     - #### myanimelist.net
       - [ ] save completed(airing) anime info to DB
